@@ -1,0 +1,13 @@
+name: My_First_App
+title: My_First_App
+username:
+account: ajayiyer
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5257153
+bundleId: 5321744
+url: https://ajayiyer.shinyapps.io/My_First_App/
+when: 1638495410.69174
+lastSyncTime: 1638495410.69176
+asMultiple: FALSE
+asStatic: FALSE
